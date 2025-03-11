@@ -1,0 +1,2914 @@
+var apidata={ content:"
+<div class='box'>
+    <div class='boxitem w790'>
+        <h4 class='t'>
+            <label class='left'>
+                <a href='http://fund.eastmoney.com/517180.html'>南方富时中国国企开放共赢ETF</a>
+                &nbsp;&nbsp;2024年4季度股票投资明细
+            </label>
+            <label class='right lab2 xq505'>
+                &nbsp;&nbsp;&nbsp;&nbsp;来源：天天基金 &nbsp;&nbsp;&nbsp;&nbsp;截止至：<font class='px12'>2024-12-31</font>
+            </label>
+        </h4>
+        <div class='space0'></div>
+        <table class='w782 comm tzxq'>
+            <thead>
+                <tr>
+                    <th class='first'>序号</th>
+                    <th>股票代码</th>
+                    <th>股票名称</th>
+                    <th>最新价</th>
+                    <th>涨跌幅</th>
+                    <th class='xglj'>相关资讯</th>
+                    <th>
+                        占净值<br/>比例
+                    </th>
+                    <th class='cgs'>
+                        持股数<br/>（万股）
+                    </th>
+                    <th class='last ccs'>
+                        持仓市值<br/>（万元）
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>601857</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>中国石油</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601857'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601857'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601857.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601857'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>行情</a>
+                    </td>
+                    <td class='tor'>14.21%</td>
+                    <td class='tor'>2,166.81</td>
+                    <td class='tor'>19,371.28</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>600028</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>中国石化</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq600028'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd600028'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_600028.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600028'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>行情</a>
+                    </td>
+                    <td class='tor'>11.23%</td>
+                    <td class='tor'>2,292.11</td>
+                    <td class='tor'>15,311.28</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>601668</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>中国建筑</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601668'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601668'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601668.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601668'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>行情</a>
+                    </td>
+                    <td class='tor'>10.34%</td>
+                    <td class='tor'>2,349.41</td>
+                    <td class='tor'>14,096.46</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>600941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>中国移动</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq600941'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd600941'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_600941.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>行情</a>
+                    </td>
+                    <td class='tor'>6.65%</td>
+                    <td class='tor'>76.70</td>
+                    <td class='tor'>9,062.82</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>00941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>中国移动</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq00941'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd00941'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_00941.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>行情</a>
+                    </td>
+                    <td class='tor'>5.68%</td>
+                    <td class='tor'>109.20</td>
+                    <td class='tor'>7,746.07</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>601390</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>中国中铁</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601390'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601390'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601390.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601390'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>行情</a>
+                    </td>
+                    <td class='tor'>5.50%</td>
+                    <td class='tor'>1,173.77</td>
+                    <td class='tor'>7,500.41</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>601186</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>中国铁建</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601186'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601186'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601186.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601186'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>行情</a>
+                    </td>
+                    <td class='tor'>4.90%</td>
+                    <td class='tor'>728.66</td>
+                    <td class='tor'>6,681.81</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>600938</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>中国海油</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq600938'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd600938'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_600938.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600938'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>行情</a>
+                    </td>
+                    <td class='tor'>3.86%</td>
+                    <td class='tor'>178.04</td>
+                    <td class='tor'>5,253.96</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>601728</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>中国电信</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601728'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601728'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601728.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601728'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>行情</a>
+                    </td>
+                    <td class='tor'>3.76%</td>
+                    <td class='tor'>708.85</td>
+                    <td class='tor'>5,117.90</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>601088</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>中国神华</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq601088'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd601088'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_601088.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601088'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>行情</a>
+                    </td>
+                    <td class='tor'>2.77%</td>
+                    <td class='tor'>86.76</td>
+                    <td class='tor'>3,772.32</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>01099</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>国药控股</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq01099'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd01099'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_01099.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01099'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>行情</a>
+                    </td>
+                    <td class='tor'>2.63%</td>
+                    <td class='tor'>181.76</td>
+                    <td class='tor'>3,585.15</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>00883</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>中国海洋石油</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq00883'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd00883'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_00883.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00883'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>行情</a>
+                    </td>
+                    <td class='tor'>1.92%</td>
+                    <td class='tor'>147.60</td>
+                    <td class='tor'>2,613.39</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>688615</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>合合信息</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq688615'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd688615'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_688615.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688615'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.03</td>
+                    <td class='tor'>4.79</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603072'>603072</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603072'>天和磁材</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq603072'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd603072'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_603072.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603072'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603072'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.23</td>
+                    <td class='tor'>2.77</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>688721</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>龙图光罩</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq688721'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd688721'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_688721.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688721'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.02</td>
+                    <td class='tor'>1.06</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603194'>603194</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603194'>中力股份</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq603194'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd603194'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_603194.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603194'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603194'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.03</td>
+                    <td class='tor'>0.82</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603395'>603395</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603395'>红四方</a>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='dq603395'></span>
+                    </td>
+                    <td class='tor'>
+                        <span data-id='zd603395'></span>
+                    </td>
+                    <td class='xglj'>
+                        <a href='ccbdxq_517180_603395.html' class='red'>变动详情</a>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603395'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603395'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.02</td>
+                    <td class='tor'>0.55</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class='hide' id='gpdmList'>1.601857,1.600028,1.601668,1.600941,116.00941,1.601390,1.601186,1.600938,1.601728,1.601088,116.01099,116.00883,1.688615,1.603072,1.688721,1.603194,1.603395,</div>
+        <div class='tfoot'>
+            <font class='px12'>
+                <a style='cursor:pointer;' onclick='LoadMore(this,12,LoadStockPos)'>收起持仓明细>></a>
+            </font>
+        </div>
+    </div>
+</div>
+</div>
+<div class='box'>
+    <div class='boxitem w790'>
+        <h4 class='t'>
+            <label class='left'>
+                <a href='http://fund.eastmoney.com/517180.html'>南方富时中国国企开放共赢ETF</a>
+                &nbsp;&nbsp;2024年3季度股票投资明细
+            </label>
+            <label class='right lab2 xq505'>
+                &nbsp;&nbsp;&nbsp;&nbsp;来源：天天基金 &nbsp;&nbsp;&nbsp;&nbsp;截止至：<font class='px12'>2024-09-30</font>
+            </label>
+        </h4>
+        <div class='space0'></div>
+        <table class='w782 comm tzxq'>
+            <thead>
+                <tr>
+                    <th class='first'>序号</th>
+                    <th>股票代码</th>
+                    <th>股票名称</th>
+                    <th class='xglj'>相关资讯</th>
+                    <th>
+                        占净值<br/>比例
+                    </th>
+                    <th class='cgs'>
+                        持股数<br/>（万股）
+                    </th>
+                    <th class='last ccs'>
+                        持仓市值<br/>（万元）
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>601857</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>中国石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601857'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>行情</a>
+                    </td>
+                    <td class='tor'>14.23%</td>
+                    <td class='tor'>2,392.75</td>
+                    <td class='tor'>21,582.61</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>600028</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>中国石化</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600028'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>行情</a>
+                    </td>
+                    <td class='tor'>11.62%</td>
+                    <td class='tor'>2,531.34</td>
+                    <td class='tor'>17,618.11</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>601668</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>中国建筑</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601668'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>行情</a>
+                    </td>
+                    <td class='tor'>10.58%</td>
+                    <td class='tor'>2,594.50</td>
+                    <td class='tor'>16,034.01</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>600941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>行情</a>
+                    </td>
+                    <td class='tor'>6.13%</td>
+                    <td class='tor'>84.69</td>
+                    <td class='tor'>9,290.45</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>601390</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>中国中铁</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601390'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>行情</a>
+                    </td>
+                    <td class='tor'>5.62%</td>
+                    <td class='tor'>1,296.13</td>
+                    <td class='tor'>8,515.57</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>00941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>行情</a>
+                    </td>
+                    <td class='tor'>5.44%</td>
+                    <td class='tor'>124.50</td>
+                    <td class='tor'>8,246.44</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>601186</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>中国铁建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601186'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>行情</a>
+                    </td>
+                    <td class='tor'>4.73%</td>
+                    <td class='tor'>804.66</td>
+                    <td class='tor'>7,169.52</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>600938</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>中国海油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600938'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>行情</a>
+                    </td>
+                    <td class='tor'>3.89%</td>
+                    <td class='tor'>196.30</td>
+                    <td class='tor'>5,898.82</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>601728</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>中国电信</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601728'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>行情</a>
+                    </td>
+                    <td class='tor'>3.46%</td>
+                    <td class='tor'>782.49</td>
+                    <td class='tor'>5,250.51</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>601088</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>中国神华</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601088'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>行情</a>
+                    </td>
+                    <td class='tor'>2.75%</td>
+                    <td class='tor'>95.80</td>
+                    <td class='tor'>4,176.88</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>01099</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>国药控股</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01099'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>行情</a>
+                    </td>
+                    <td class='tor'>2.53%</td>
+                    <td class='tor'>204.72</td>
+                    <td class='tor'>3,839.98</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>00883</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>中国海洋石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00883'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>行情</a>
+                    </td>
+                    <td class='tor'>1.92%</td>
+                    <td class='tor'>166.30</td>
+                    <td class='tor'>2,912.37</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>688615</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>合合信息</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688615'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688615'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.03</td>
+                    <td class='tor'>5.61</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>688692</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>达梦数据</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688692'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>2.05</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>688721</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>龙图光罩</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688721'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688721'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.02</td>
+                    <td class='tor'>0.54</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603310'>603310</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603310'>巍华新材</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603310'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603310'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.03</td>
+                    <td class='tor'>0.43</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603391'>603391</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603391'>力聚热能</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603391'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603391'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.39</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class='hide' id='gpdmList'></div>
+        <div class='tfoot'>
+            <font class='px12'>
+                <a style='cursor:pointer;' onclick='LoadMore(this,9,LoadStockPos)'>收起持仓明细>></a>
+            </font>
+        </div>
+    </div>
+</div>
+</div>
+<div class='box'>
+    <div class='boxitem w790'>
+        <h4 class='t'>
+            <label class='left'>
+                <a href='http://fund.eastmoney.com/517180.html'>南方富时中国国企开放共赢ETF</a>
+                &nbsp;&nbsp;2024年2季度股票投资明细
+            </label>
+            <label class='right lab2 xq505'>
+                &nbsp;&nbsp;&nbsp;&nbsp;来源：天天基金 &nbsp;&nbsp;&nbsp;&nbsp;截止至：<font class='px12'>2024-06-30</font>
+            </label>
+        </h4>
+        <div class='space0'></div>
+        <table class='w782 comm tzxq'>
+            <thead>
+                <tr>
+                    <th class='first'>序号</th>
+                    <th>股票代码</th>
+                    <th>股票名称</th>
+                    <th class='xglj'>相关资讯</th>
+                    <th>
+                        占净值<br/>比例
+                    </th>
+                    <th class='cgs'>
+                        持股数<br/>（万股）
+                    </th>
+                    <th class='last ccs'>
+                        持仓市值<br/>（万元）
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>601857</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>中国石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601857'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>行情</a>
+                    </td>
+                    <td class='tor'>15.67%</td>
+                    <td class='tor'>1,837.93</td>
+                    <td class='tor'>18,967.44</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>600028</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>中国石化</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600028'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>行情</a>
+                    </td>
+                    <td class='tor'>13.64%</td>
+                    <td class='tor'>2,611.76</td>
+                    <td class='tor'>16,506.30</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>601668</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>中国建筑</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601668'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>行情</a>
+                    </td>
+                    <td class='tor'>8.23%</td>
+                    <td class='tor'>1,877.16</td>
+                    <td class='tor'>9,967.72</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>00941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>行情</a>
+                    </td>
+                    <td class='tor'>4.90%</td>
+                    <td class='tor'>84.40</td>
+                    <td class='tor'>5,931.32</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>600941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>行情</a>
+                    </td>
+                    <td class='tor'>4.57%</td>
+                    <td class='tor'>51.46</td>
+                    <td class='tor'>5,531.95</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>600938</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>中国海油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600938'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>行情</a>
+                    </td>
+                    <td class='tor'>4.57%</td>
+                    <td class='tor'>167.56</td>
+                    <td class='tor'>5,529.48</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>601186</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>中国铁建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601186'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>行情</a>
+                    </td>
+                    <td class='tor'>4.04%</td>
+                    <td class='tor'>571.09</td>
+                    <td class='tor'>4,894.24</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>00883</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>中国海洋石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00883'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>行情</a>
+                    </td>
+                    <td class='tor'>3.67%</td>
+                    <td class='tor'>217.40</td>
+                    <td class='tor'>4,444.53</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>601390</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>中国中铁</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601390'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>行情</a>
+                    </td>
+                    <td class='tor'>3.53%</td>
+                    <td class='tor'>654.56</td>
+                    <td class='tor'>4,267.73</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>601088</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>中国神华</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601088'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>行情</a>
+                    </td>
+                    <td class='tor'>3.27%</td>
+                    <td class='tor'>89.20</td>
+                    <td class='tor'>3,957.80</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>601728</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>中国电信</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601728'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>行情</a>
+                    </td>
+                    <td class='tor'>2.32%</td>
+                    <td class='tor'>456.71</td>
+                    <td class='tor'>2,808.77</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>601618</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>中国中冶</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601618'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>行情</a>
+                    </td>
+                    <td class='tor'>2.07%</td>
+                    <td class='tor'>810.19</td>
+                    <td class='tor'>2,511.59</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601919'>601919</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601919'>中远海控</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601919'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601919'>行情</a>
+                    </td>
+                    <td class='tor'>1.91%</td>
+                    <td class='tor'>149.39</td>
+                    <td class='tor'>2,314.05</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601766'>601766</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601766'>中国中车</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601766'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601766'>行情</a>
+                    </td>
+                    <td class='tor'>1.86%</td>
+                    <td class='tor'>299.63</td>
+                    <td class='tor'>2,250.22</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00762'>00762</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00762'>中国联通</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00762'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00762'>行情</a>
+                    </td>
+                    <td class='tor'>1.74%</td>
+                    <td class='tor'>321.40</td>
+                    <td class='tor'>2,103.21</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600019'>600019</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600019'>宝钢股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600019'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600019'>行情</a>
+                    </td>
+                    <td class='tor'>1.69%</td>
+                    <td class='tor'>307.01</td>
+                    <td class='tor'>2,041.62</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>01099</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>国药控股</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01099'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01099'>行情</a>
+                    </td>
+                    <td class='tor'>1.46%</td>
+                    <td class='tor'>93.48</td>
+                    <td class='tor'>1,770.33</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601800'>601800</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601800'>中国交建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601800'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601800'>行情</a>
+                    </td>
+                    <td class='tor'>1.46%</td>
+                    <td class='tor'>197.04</td>
+                    <td class='tor'>1,761.54</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601669'>601669</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601669'>中国电建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601669'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601669'>行情</a>
+                    </td>
+                    <td class='tor'>1.38%</td>
+                    <td class='tor'>299.69</td>
+                    <td class='tor'>1,675.27</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600050'>600050</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600050'>中国联通</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600050'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600050'>行情</a>
+                    </td>
+                    <td class='tor'>1.27%</td>
+                    <td class='tor'>326.54</td>
+                    <td class='tor'>1,534.74</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601868'>601868</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601868'>中国能建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601868'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601868'>行情</a>
+                    </td>
+                    <td class='tor'>1.14%</td>
+                    <td class='tor'>648.31</td>
+                    <td class='tor'>1,374.42</td>
+                </tr>
+                <tr>
+                    <td>22</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600795'>600795</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600795'>国电电力</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600795'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600795'>行情</a>
+                    </td>
+                    <td class='tor'>1.07%</td>
+                    <td class='tor'>215.66</td>
+                    <td class='tor'>1,291.80</td>
+                </tr>
+                <tr>
+                    <td>23</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00135'>00135</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00135'>昆仑能源</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00135'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00135'>行情</a>
+                    </td>
+                    <td class='tor'>0.94%</td>
+                    <td class='tor'>153.60</td>
+                    <td class='tor'>1,135.52</td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01109'>01109</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01109'>华润置地</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01109'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01109'>行情</a>
+                    </td>
+                    <td class='tor'>0.64%</td>
+                    <td class='tor'>31.90</td>
+                    <td class='tor'>772.99</td>
+                </tr>
+                <tr>
+                    <td>25</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600900'>600900</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600900'>长江电力</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600900'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600900'>行情</a>
+                    </td>
+                    <td class='tor'>0.64%</td>
+                    <td class='tor'>26.64</td>
+                    <td class='tor'>770.43</td>
+                </tr>
+                <tr>
+                    <td>26</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600036'>600036</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600036'>招商银行</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600036'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600036'>行情</a>
+                    </td>
+                    <td class='tor'>0.62%</td>
+                    <td class='tor'>22.12</td>
+                    <td class='tor'>756.28</td>
+                </tr>
+                <tr>
+                    <td>27</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00688'>00688</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00688'>中国海外发展</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00688'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00688'>行情</a>
+                    </td>
+                    <td class='tor'>0.59%</td>
+                    <td class='tor'>58.05</td>
+                    <td class='tor'>717.36</td>
+                </tr>
+                <tr>
+                    <td>28</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601117'>601117</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601117'>中国化学</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601117'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601117'>行情</a>
+                    </td>
+                    <td class='tor'>0.52%</td>
+                    <td class='tor'>76.25</td>
+                    <td class='tor'>628.30</td>
+                </tr>
+                <tr>
+                    <td>29</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000878'>000878</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000878'>云南铜业</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000878'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000878'>行情</a>
+                    </td>
+                    <td class='tor'>0.52%</td>
+                    <td class='tor'>50.22</td>
+                    <td class='tor'>625.74</td>
+                </tr>
+                <tr>
+                    <td>30</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.03320'>03320</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.03320'>华润医药</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.03320'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.03320'>行情</a>
+                    </td>
+                    <td class='tor'>0.48%</td>
+                    <td class='tor'>110.15</td>
+                    <td class='tor'>582.08</td>
+                </tr>
+                <tr>
+                    <td>31</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00552'>00552</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00552'>中国通信服务</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00552'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00552'>行情</a>
+                    </td>
+                    <td class='tor'>0.42%</td>
+                    <td class='tor'>131.80</td>
+                    <td class='tor'>506.43</td>
+                </tr>
+                <tr>
+                    <td>32</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601898'>601898</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601898'>中煤能源</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601898'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601898'>行情</a>
+                    </td>
+                    <td class='tor'>0.42%</td>
+                    <td class='tor'>40.36</td>
+                    <td class='tor'>503.69</td>
+                </tr>
+                <tr>
+                    <td>33</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.003816'>003816</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.003816'>中国广核</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.003816'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.003816'>行情</a>
+                    </td>
+                    <td class='tor'>0.39%</td>
+                    <td class='tor'>101.97</td>
+                    <td class='tor'>472.12</td>
+                </tr>
+                <tr>
+                    <td>34</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.002415'>002415</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.002415'>海康威视</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.002415'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.002415'>行情</a>
+                    </td>
+                    <td class='tor'>0.38%</td>
+                    <td class='tor'>14.86</td>
+                    <td class='tor'>459.32</td>
+                </tr>
+                <tr>
+                    <td>35</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688009'>688009</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688009'>中国通号</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688009'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688009'>行情</a>
+                    </td>
+                    <td class='tor'>0.35%</td>
+                    <td class='tor'>71.10</td>
+                    <td class='tor'>426.62</td>
+                </tr>
+                <tr>
+                    <td>36</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600968'>600968</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600968'>海油发展</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600968'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600968'>行情</a>
+                    </td>
+                    <td class='tor'>0.33%</td>
+                    <td class='tor'>96.71</td>
+                    <td class='tor'>398.45</td>
+                </tr>
+                <tr>
+                    <td>37</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600489'>600489</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600489'>中金黄金</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600489'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600489'>行情</a>
+                    </td>
+                    <td class='tor'>0.29%</td>
+                    <td class='tor'>24.03</td>
+                    <td class='tor'>355.64</td>
+                </tr>
+                <tr>
+                    <td>38</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000028'>000028</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000028'>国药一致</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000028'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000028'>行情</a>
+                    </td>
+                    <td class='tor'>0.29%</td>
+                    <td class='tor'>10.83</td>
+                    <td class='tor'>349.15</td>
+                </tr>
+                <tr>
+                    <td>39</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600886'>600886</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600886'>国投电力</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600886'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600886'>行情</a>
+                    </td>
+                    <td class='tor'>0.28%</td>
+                    <td class='tor'>18.85</td>
+                    <td class='tor'>343.86</td>
+                </tr>
+                <tr>
+                    <td>40</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01193'>01193</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01193'>华润燃气</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01193'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01193'>行情</a>
+                    </td>
+                    <td class='tor'>0.27%</td>
+                    <td class='tor'>13.31</td>
+                    <td class='tor'>332.24</td>
+                </tr>
+                <tr>
+                    <td>41</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.03311'>03311</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.03311'>中国建筑国际</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.03311'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.03311'>行情</a>
+                    </td>
+                    <td class='tor'>0.27%</td>
+                    <td class='tor'>33.80</td>
+                    <td class='tor'>328.85</td>
+                </tr>
+                <tr>
+                    <td>42</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601985'>601985</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601985'>中国核电</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601985'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601985'>行情</a>
+                    </td>
+                    <td class='tor'>0.24%</td>
+                    <td class='tor'>26.93</td>
+                    <td class='tor'>287.07</td>
+                </tr>
+                <tr>
+                    <td>43</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600048'>600048</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600048'>保利发展</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600048'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600048'>行情</a>
+                    </td>
+                    <td class='tor'>0.23%</td>
+                    <td class='tor'>32.44</td>
+                    <td class='tor'>284.17</td>
+                </tr>
+                <tr>
+                    <td>44</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00788'>00788</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00788'>中国铁塔</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00788'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00788'>行情</a>
+                    </td>
+                    <td class='tor'>0.23%</td>
+                    <td class='tor'>305.40</td>
+                    <td class='tor'>281.52</td>
+                </tr>
+                <tr>
+                    <td>45</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600787'>600787</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600787'>中储股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600787'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600787'>行情</a>
+                    </td>
+                    <td class='tor'>0.22%</td>
+                    <td class='tor'>54.52</td>
+                    <td class='tor'>262.24</td>
+                </tr>
+                <tr>
+                    <td>46</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601598'>601598</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601598'>中国外运</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601598'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601598'>行情</a>
+                    </td>
+                    <td class='tor'>0.19%</td>
+                    <td class='tor'>40.86</td>
+                    <td class='tor'>230.04</td>
+                </tr>
+                <tr>
+                    <td>47</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600027'>600027</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600027'>华电国际</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600027'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600027'>行情</a>
+                    </td>
+                    <td class='tor'>0.18%</td>
+                    <td class='tor'>31.29</td>
+                    <td class='tor'>217.15</td>
+                </tr>
+                <tr>
+                    <td>48</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601991'>601991</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601991'>大唐发电</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601991'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601991'>行情</a>
+                    </td>
+                    <td class='tor'>0.17%</td>
+                    <td class='tor'>69.33</td>
+                    <td class='tor'>208.68</td>
+                </tr>
+                <tr>
+                    <td>49</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601156'>601156</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601156'>东航物流</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601156'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601156'>行情</a>
+                    </td>
+                    <td class='tor'>0.17%</td>
+                    <td class='tor'>9.95</td>
+                    <td class='tor'>202.48</td>
+                </tr>
+                <tr>
+                    <td>50</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00836'>00836</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00836'>华润电力</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00836'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00836'>行情</a>
+                    </td>
+                    <td class='tor'>0.16%</td>
+                    <td class='tor'>8.80</td>
+                    <td class='tor'>192.36</td>
+                </tr>
+                <tr>
+                    <td>51</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600025'>600025</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600025'>华能水电</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600025'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600025'>行情</a>
+                    </td>
+                    <td class='tor'>0.16%</td>
+                    <td class='tor'>17.66</td>
+                    <td class='tor'>190.37</td>
+                </tr>
+                <tr>
+                    <td>52</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600406'>600406</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600406'>国电南瑞</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600406'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600406'>行情</a>
+                    </td>
+                    <td class='tor'>0.16%</td>
+                    <td class='tor'>7.57</td>
+                    <td class='tor'>188.97</td>
+                </tr>
+                <tr>
+                    <td>53</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600582'>600582</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600582'>天地科技</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600582'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600582'>行情</a>
+                    </td>
+                    <td class='tor'>0.15%</td>
+                    <td class='tor'>26.12</td>
+                    <td class='tor'>179.97</td>
+                </tr>
+                <tr>
+                    <td>54</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000877'>000877</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000877'>天山股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000877'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000877'>行情</a>
+                    </td>
+                    <td class='tor'>0.15%</td>
+                    <td class='tor'>32.70</td>
+                    <td class='tor'>176.58</td>
+                </tr>
+                <tr>
+                    <td>55</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600299'>600299</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600299'>安迪苏</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600299'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600299'>行情</a>
+                    </td>
+                    <td class='tor'>0.14%</td>
+                    <td class='tor'>17.48</td>
+                    <td class='tor'>169.56</td>
+                </tr>
+                <tr>
+                    <td>56</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.03323'>03323</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.03323'>中国建材</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.03323'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.03323'>行情</a>
+                    </td>
+                    <td class='tor'>0.14%</td>
+                    <td class='tor'>64.80</td>
+                    <td class='tor'>165.60</td>
+                </tr>
+                <tr>
+                    <td>57</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600236'>600236</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600236'>桂冠电力</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600236'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600236'>行情</a>
+                    </td>
+                    <td class='tor'>0.14%</td>
+                    <td class='tor'>21.34</td>
+                    <td class='tor'>163.68</td>
+                </tr>
+                <tr>
+                    <td>58</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600970'>600970</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600970'>中材国际</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600970'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600970'>行情</a>
+                    </td>
+                    <td class='tor'>0.13%</td>
+                    <td class='tor'>13.00</td>
+                    <td class='tor'>156.78</td>
+                </tr>
+                <tr>
+                    <td>59</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601611'>601611</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601611'>中国核建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601611'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601611'>行情</a>
+                    </td>
+                    <td class='tor'>0.13%</td>
+                    <td class='tor'>19.37</td>
+                    <td class='tor'>156.70</td>
+                </tr>
+                <tr>
+                    <td>60</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600583'>600583</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600583'>海油工程</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600583'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600583'>行情</a>
+                    </td>
+                    <td class='tor'>0.12%</td>
+                    <td class='tor'>25.51</td>
+                    <td class='tor'>150.76</td>
+                </tr>
+                <tr>
+                    <td>61</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600500'>600500</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600500'>中化国际</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600500'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600500'>行情</a>
+                    </td>
+                    <td class='tor'>0.12%</td>
+                    <td class='tor'>40.89</td>
+                    <td class='tor'>142.69</td>
+                </tr>
+                <tr>
+                    <td>62</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600486'>600486</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600486'>扬农化工</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600486'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600486'>行情</a>
+                    </td>
+                    <td class='tor'>0.11%</td>
+                    <td class='tor'>2.40</td>
+                    <td class='tor'>135.65</td>
+                </tr>
+                <tr>
+                    <td>63</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000778'>000778</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000778'>新兴铸管</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000778'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000778'>行情</a>
+                    </td>
+                    <td class='tor'>0.11%</td>
+                    <td class='tor'>38.24</td>
+                    <td class='tor'>133.08</td>
+                </tr>
+                <tr>
+                    <td>64</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00489'>00489</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00489'>东风集团股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00489'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00489'>行情</a>
+                    </td>
+                    <td class='tor'>0.11%</td>
+                    <td class='tor'>64.80</td>
+                    <td class='tor'>131.89</td>
+                </tr>
+                <tr>
+                    <td>65</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000059'>000059</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000059'>华锦股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000059'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000059'>行情</a>
+                    </td>
+                    <td class='tor'>0.11%</td>
+                    <td class='tor'>30.92</td>
+                    <td class='tor'>129.55</td>
+                </tr>
+                <tr>
+                    <td>66</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600176'>600176</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600176'>中国巨石</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600176'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600176'>行情</a>
+                    </td>
+                    <td class='tor'>0.10%</td>
+                    <td class='tor'>10.93</td>
+                    <td class='tor'>120.78</td>
+                </tr>
+                <tr>
+                    <td>67</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600528'>600528</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600528'>中铁工业</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600528'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600528'>行情</a>
+                    </td>
+                    <td class='tor'>0.10%</td>
+                    <td class='tor'>16.34</td>
+                    <td class='tor'>119.61</td>
+                </tr>
+                <tr>
+                    <td>68</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601866'>601866</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601866'>中远海发</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601866'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601866'>行情</a>
+                    </td>
+                    <td class='tor'>0.10%</td>
+                    <td class='tor'>45.57</td>
+                    <td class='tor'>117.57</td>
+                </tr>
+                <tr>
+                    <td>69</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000830'>000830</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000830'>鲁西化工</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000830'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000830'>行情</a>
+                    </td>
+                    <td class='tor'>0.09%</td>
+                    <td class='tor'>9.26</td>
+                    <td class='tor'>107.32</td>
+                </tr>
+                <tr>
+                    <td>70</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00144'>00144</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00144'>招商局港口</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00144'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00144'>行情</a>
+                    </td>
+                    <td class='tor'>0.09%</td>
+                    <td class='tor'>9.80</td>
+                    <td class='tor'>103.93</td>
+                </tr>
+                <tr>
+                    <td>71</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600875'>600875</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600875'>东方电气</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600875'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600875'>行情</a>
+                    </td>
+                    <td class='tor'>0.08%</td>
+                    <td class='tor'>5.03</td>
+                    <td class='tor'>92.80</td>
+                </tr>
+                <tr>
+                    <td>72</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600497'>600497</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600497'>驰宏锌锗</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600497'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600497'>行情</a>
+                    </td>
+                    <td class='tor'>0.08%</td>
+                    <td class='tor'>17.09</td>
+                    <td class='tor'>91.26</td>
+                </tr>
+                <tr>
+                    <td>73</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601600'>601600</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601600'>中国铝业</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601600'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601600'>行情</a>
+                    </td>
+                    <td class='tor'>0.07%</td>
+                    <td class='tor'>11.44</td>
+                    <td class='tor'>87.29</td>
+                </tr>
+                <tr>
+                    <td>74</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.001979'>001979</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.001979'>招商蛇口</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.001979'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.001979'>行情</a>
+                    </td>
+                    <td class='tor'>0.07%</td>
+                    <td class='tor'>9.57</td>
+                    <td class='tor'>84.12</td>
+                </tr>
+                <tr>
+                    <td>75</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600737'>600737</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600737'>中粮糖业</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600737'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600737'>行情</a>
+                    </td>
+                    <td class='tor'>0.07%</td>
+                    <td class='tor'>8.61</td>
+                    <td class='tor'>82.57</td>
+                </tr>
+                <tr>
+                    <td>76</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600863'>600863</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600863'>内蒙华电</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600863'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600863'>行情</a>
+                    </td>
+                    <td class='tor'>0.07%</td>
+                    <td class='tor'>17.64</td>
+                    <td class='tor'>81.85</td>
+                </tr>
+                <tr>
+                    <td>77</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000999'>000999</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000999'>华润三九</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000999'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000999'>行情</a>
+                    </td>
+                    <td class='tor'>0.07%</td>
+                    <td class='tor'>1.90</td>
+                    <td class='tor'>80.73</td>
+                </tr>
+                <tr>
+                    <td>78</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.02357'>02357</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.02357'>中航科工</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.02357'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.02357'>行情</a>
+                    </td>
+                    <td class='tor'>0.06%</td>
+                    <td class='tor'>23.90</td>
+                    <td class='tor'>76.56</td>
+                </tr>
+                <tr>
+                    <td>79</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000786'>000786</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000786'>北新建材</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000786'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000786'>行情</a>
+                    </td>
+                    <td class='tor'>0.06%</td>
+                    <td class='tor'>2.31</td>
+                    <td class='tor'>68.51</td>
+                </tr>
+                <tr>
+                    <td>80</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.002128'>002128</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.002128'>电投能源</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.002128'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.002128'>行情</a>
+                    </td>
+                    <td class='tor'>0.06%</td>
+                    <td class='tor'>3.23</td>
+                    <td class='tor'>68.15</td>
+                </tr>
+                <tr>
+                    <td>81</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600511'>600511</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600511'>国药股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600511'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600511'>行情</a>
+                    </td>
+                    <td class='tor'>0.06%</td>
+                    <td class='tor'>2.21</td>
+                    <td class='tor'>68.12</td>
+                </tr>
+                <tr>
+                    <td>82</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000883'>000883</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000883'>湖北能源</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000883'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000883'>行情</a>
+                    </td>
+                    <td class='tor'>0.06%</td>
+                    <td class='tor'>11.17</td>
+                    <td class='tor'>67.13</td>
+                </tr>
+                <tr>
+                    <td>83</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01199'>01199</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01199'>中远海运港口</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01199'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01199'>行情</a>
+                    </td>
+                    <td class='tor'>0.05%</td>
+                    <td class='tor'>12.62</td>
+                    <td class='tor'>62.06</td>
+                </tr>
+                <tr>
+                    <td>84</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.002179'>002179</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.002179'>中航光电</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.002179'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.002179'>行情</a>
+                    </td>
+                    <td class='tor'>0.05%</td>
+                    <td class='tor'>1.61</td>
+                    <td class='tor'>61.26</td>
+                </tr>
+                <tr>
+                    <td>85</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600271'>600271</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600271'>航天信息</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600271'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600271'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>7.34</td>
+                    <td class='tor'>54.02</td>
+                </tr>
+                <tr>
+                    <td>86</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688779'>688779</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688779'>五矿新能</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688779'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688779'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>11.28</td>
+                    <td class='tor'>52.22</td>
+                </tr>
+                <tr>
+                    <td>87</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600808'>600808</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600808'>马钢股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600808'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600808'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>25.21</td>
+                    <td class='tor'>50.92</td>
+                </tr>
+                <tr>
+                    <td>88</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601808'>601808</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601808'>中海油服</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601808'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601808'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>2.88</td>
+                    <td class='tor'>49.54</td>
+                </tr>
+                <tr>
+                    <td>89</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.001872'>001872</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.001872'>招商港口</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.001872'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.001872'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>2.34</td>
+                    <td class='tor'>45.05</td>
+                </tr>
+                <tr>
+                    <td>90</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000825'>000825</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000825'>太钢不锈</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000825'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000825'>行情</a>
+                    </td>
+                    <td class='tor'>0.04%</td>
+                    <td class='tor'>12.86</td>
+                    <td class='tor'>43.47</td>
+                </tr>
+                <tr>
+                    <td>91</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.001965'>001965</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.001965'>招商公路</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.001965'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.001965'>行情</a>
+                    </td>
+                    <td class='tor'>0.03%</td>
+                    <td class='tor'>3.43</td>
+                    <td class='tor'>40.68</td>
+                </tr>
+                <tr>
+                    <td>92</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600845'>600845</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600845'>宝信软件</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600845'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600845'>行情</a>
+                    </td>
+                    <td class='tor'>0.03%</td>
+                    <td class='tor'>1.27</td>
+                    <td class='tor'>40.55</td>
+                </tr>
+                <tr>
+                    <td>93</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.01313'>01313</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.01313'>华润建材科技</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.01313'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.01313'>行情</a>
+                    </td>
+                    <td class='tor'>0.02%</td>
+                    <td class='tor'>24.00</td>
+                    <td class='tor'>30.23</td>
+                </tr>
+                <tr>
+                    <td>94</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000898'>000898</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000898'>鞍钢股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000898'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000898'>行情</a>
+                    </td>
+                    <td class='tor'>0.02%</td>
+                    <td class='tor'>13.36</td>
+                    <td class='tor'>28.32</td>
+                </tr>
+                <tr>
+                    <td>95</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601872'>601872</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601872'>招商轮船</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601872'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601872'>行情</a>
+                    </td>
+                    <td class='tor'>0.02%</td>
+                    <td class='tor'>3.32</td>
+                    <td class='tor'>28.05</td>
+                </tr>
+                <tr>
+                    <td>96</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600062'>600062</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600062'>华润双鹤</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600062'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600062'>行情</a>
+                    </td>
+                    <td class='tor'>0.02%</td>
+                    <td class='tor'>1.19</td>
+                    <td class='tor'>23.30</td>
+                </tr>
+                <tr>
+                    <td>97</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.000625'>000625</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.000625'>长安汽车</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.000625'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.000625'>行情</a>
+                    </td>
+                    <td class='tor'>0.02%</td>
+                    <td class='tor'>1.63</td>
+                    <td class='tor'>21.94</td>
+                </tr>
+                <tr>
+                    <td>98</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600999'>600999</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600999'>招商证券</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600999'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600999'>行情</a>
+                    </td>
+                    <td class='tor'>0.01%</td>
+                    <td class='tor'>1.07</td>
+                    <td class='tor'>14.88</td>
+                </tr>
+                <tr>
+                    <td>99</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00817'>00817</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00817'>中国金茂</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00817'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00817'>行情</a>
+                    </td>
+                    <td class='tor'>0.01%</td>
+                    <td class='tor'>17.40</td>
+                    <td class='tor'>9.85</td>
+                </tr>
+                <tr>
+                    <td>100</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600390'>600390</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600390'>五矿资本</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600390'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600390'>行情</a>
+                    </td>
+                    <td class='tor'>0.01%</td>
+                    <td class='tor'>2.33</td>
+                    <td class='tor'>9.44</td>
+                </tr>
+                <tr>
+                    <td>101</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603285'>603285</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603285'>键邦股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603285'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603285'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.11</td>
+                    <td class='tor'>2.00</td>
+                </tr>
+                <tr>
+                    <td>102</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>688709</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>成都华微</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688709'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.09</td>
+                    <td class='tor'>1.66</td>
+                </tr>
+                <tr>
+                    <td>103</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603350'>603350</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603350'>安乃达</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603350'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603350'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.07</td>
+                    <td class='tor'>1.49</td>
+                </tr>
+                <tr>
+                    <td>104</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>688692</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>达梦数据</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688692'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688692'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>1.22</td>
+                </tr>
+                <tr>
+                    <td>105</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>688584</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>上海合晶</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688584'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.07</td>
+                    <td class='tor'>1.16</td>
+                </tr>
+                <tr>
+                    <td>106</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603341'>603341</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603341'>龙旗科技</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603341'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603341'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.03</td>
+                    <td class='tor'>1.05</td>
+                </tr>
+                <tr>
+                    <td>107</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688695'>688695</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688695'>中创股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688695'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688695'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.02</td>
+                    <td class='tor'>0.59</td>
+                </tr>
+                <tr>
+                    <td>108</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603325'>603325</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603325'>博隆技术</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603325'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603325'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.45</td>
+                </tr>
+                <tr>
+                    <td>109</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603312'>603312</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603312'>西典新能</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603312'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603312'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.33</td>
+                </tr>
+                <tr>
+                    <td>110</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603082'>603082</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603082'>北自科技</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603082'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603082'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.32</td>
+                </tr>
+                <tr>
+                    <td>111</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603381'>603381</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603381'>永臻股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603381'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603381'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.28</td>
+                </tr>
+                <tr>
+                    <td>112</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.603375'>603375</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.603375'>盛景微</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.603375'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.603375'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.01</td>
+                    <td class='tor'>0.28</td>
+                </tr>
+                <tr>
+                    <td>113</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688691'>688691</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688691'>灿芯股份</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688691'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688691'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.00</td>
+                    <td class='tor'>0.12</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class='hide' id='gpdmList'></div>
+        <div class='tfoot'>
+            <font class='px12'>
+                <a style='cursor:pointer;' onclick='LoadMore(this,6,LoadStockPos)'>收起持仓明细>></a>
+            </font>
+        </div>
+    </div>
+</div>
+</div>
+<div class='box'>
+    <div class='boxitem w790'>
+        <h4 class='t'>
+            <label class='left'>
+                <a href='http://fund.eastmoney.com/517180.html'>南方富时中国国企开放共赢ETF</a>
+                &nbsp;&nbsp;2024年1季度股票投资明细
+            </label>
+            <label class='right lab2 xq505'>
+                &nbsp;&nbsp;&nbsp;&nbsp;来源：天天基金 &nbsp;&nbsp;&nbsp;&nbsp;截止至：<font class='px12'>2024-03-31</font>
+            </label>
+        </h4>
+        <div class='space0'></div>
+        <table class='w782 comm tzxq'>
+            <thead>
+                <tr>
+                    <th class='first'>序号</th>
+                    <th>股票代码</th>
+                    <th>股票名称</th>
+                    <th class='xglj'>相关资讯</th>
+                    <th>
+                        占净值<br/>比例
+                    </th>
+                    <th class='cgs'>
+                        持股数<br/>（万股）
+                    </th>
+                    <th class='last ccs'>
+                        持仓市值<br/>（万元）
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>601857</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>中国石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601857'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601857'>行情</a>
+                    </td>
+                    <td class='tor'>15.83%</td>
+                    <td class='tor'>2,024.06</td>
+                    <td class='tor'>19,997.71</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>600028</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>中国石化</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600028'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600028'>行情</a>
+                    </td>
+                    <td class='tor'>14.55%</td>
+                    <td class='tor'>2,876.23</td>
+                    <td class='tor'>18,379.08</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>601668</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>中国建筑</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601668'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601668'>行情</a>
+                    </td>
+                    <td class='tor'>8.57%</td>
+                    <td class='tor'>2,067.14</td>
+                    <td class='tor'>10,831.81</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>600941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600941'>行情</a>
+                    </td>
+                    <td class='tor'>4.74%</td>
+                    <td class='tor'>56.64</td>
+                    <td class='tor'>5,990.25</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>00941</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>中国移动</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00941'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00941'>行情</a>
+                    </td>
+                    <td class='tor'>4.48%</td>
+                    <td class='tor'>93.40</td>
+                    <td class='tor'>5,664.54</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>600938</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>中国海油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.600938'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.600938'>行情</a>
+                    </td>
+                    <td class='tor'>4.27%</td>
+                    <td class='tor'>184.50</td>
+                    <td class='tor'>5,392.94</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>601186</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>中国铁建</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601186'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601186'>行情</a>
+                    </td>
+                    <td class='tor'>4.27%</td>
+                    <td class='tor'>628.91</td>
+                    <td class='tor'>5,389.76</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>601390</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>中国中铁</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601390'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601390'>行情</a>
+                    </td>
+                    <td class='tor'>4.00%</td>
+                    <td class='tor'>720.82</td>
+                    <td class='tor'>5,052.95</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>00883</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>中国海洋石油</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=116.00883'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/116.00883'>行情</a>
+                    </td>
+                    <td class='tor'>3.13%</td>
+                    <td class='tor'>240.70</td>
+                    <td class='tor'>3,953.90</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>601088</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>中国神华</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601088'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601088'>行情</a>
+                    </td>
+                    <td class='tor'>3.04%</td>
+                    <td class='tor'>98.21</td>
+                    <td class='tor'>3,839.03</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>601728</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>中国电信</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601728'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601728'>行情</a>
+                    </td>
+                    <td class='tor'>2.43%</td>
+                    <td class='tor'>505.09</td>
+                    <td class='tor'>3,070.95</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>601618</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>中国中冶</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601618'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601618'>行情</a>
+                    </td>
+                    <td class='tor'>2.38%</td>
+                    <td class='tor'>895.74</td>
+                    <td class='tor'>3,009.69</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/0.301559'>301559</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/0.301559'>中集环科</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=0.301559'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/0.301559'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.11</td>
+                    <td class='tor'>1.82</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688652'>688652</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688652'>京仪装备</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688652'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688652'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.04</td>
+                    <td class='tor'>1.76</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>688709</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>成都华微</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688709'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688709'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.09</td>
+                    <td class='tor'>1.71</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.601096'>601096</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.601096'>宏盛华源</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.601096'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.601096'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.36</td>
+                    <td class='tor'>1.64</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>688584</a>
+                    </td>
+                    <td class='tol'>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>上海合晶</a>
+                    </td>
+                    <td class='xglj'>
+                        <a href='//guba.eastmoney.com/interface/GetList.aspx?code=1.688584'>股吧</a>
+                        <a href='//quote.eastmoney.com/unify/r/1.688584'>行情</a>
+                    </td>
+                    <td class='tor'>0.00%</td>
+                    <td class='tor'>0.07</td>
+                    <td class='tor'>1.22</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class='hide' id='gpdmList'></div>
+        <div class='tfoot'>
+            <font class='px12'>
+                <a style='cursor:pointer;' onclick='LoadMore(this,3,LoadStockPos)'>收起持仓明细>></a>
+            </font>
+        </div>
+    </div>
+</div>
+</div>",arryear:[2024,2023,2022,2021],curyear:2024};
